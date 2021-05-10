@@ -1,0 +1,4 @@
+ext {
+    kotlin_version = "1.4.30"
+    koin_version = "3.0.1"
+}
